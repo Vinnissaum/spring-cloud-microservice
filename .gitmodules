@@ -1,0 +1,12 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Vinnissaum/spring-cloud-gateway
+[submodule "orders"]
+	path = orders
+	url = https://github.com/Vinnissaum/order-ms
+[submodule "payment"]
+	path = payment
+	url = https://github.com/Vinnissaum/payment-ms
+[submodule "server"]
+	path = server
+	url = https://github.com/Vinnissaum/spring-cloud-eureka-server
